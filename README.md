@@ -89,6 +89,10 @@ gem 'async-websocket', '~> 0.8.0'
 
 Run `bundle install`.
 
+```
+require 'slack-ruby-client'
+```
+
 ## Usage
 
 ### Create a New Bot Integration
